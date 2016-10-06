@@ -1,3 +1,15 @@
+/**
+ * Stack Test Sample Program
+ * This program implement 4 APIS :
+ * 	isEmpty()
+ * 	peek()
+ * 	pop
+ * 	push
+ * 
+ * @author cd1215 (jodonghyun53@gmail.com)
+ * @version 1.0, 06, Oct 2016
+ */
+
 package com.example;
 import com.example.Stack;
 
