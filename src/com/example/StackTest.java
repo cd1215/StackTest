@@ -5,7 +5,7 @@
  * 	peek()
  * 	pop
  * 	push
- * 
+ * 20161027 cdh
  * @author cd1215 (jodonghyun53@gmail.com)
  * @version 1.0, 06, Oct 2016
  */
